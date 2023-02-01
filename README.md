@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DidVidurina
-- 👀 I’m on a journey to become a lorry driver that can also code
-- 🌱 I’m currently learning Python via the Mimo app
+- 👀 I’m a blue collar worker who found a new love for Coding
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to expand my knowledge 
 - 📫 You cannot reach me
 
